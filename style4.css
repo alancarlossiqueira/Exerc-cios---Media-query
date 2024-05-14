@@ -1,0 +1,30 @@
+
+@media screen and (max-width: 768px) {
+    .designer-selection {
+        position: static;
+        width: 100%;
+    }
+.explanatio {
+    border-right: nome;
+    width: 100%;
+}
+#zen-intro {
+    heigth: auto;
+}
+.participation {
+    flex-direction: column;
+}
+p {
+    text-indent: 0;
+}
+}
+@midea print {
+    html {
+        font-family: 'times new roman', times, serif;
+    }
+    #zen-intro header {
+        background-color: #1f295c;
+        color: #1f295c2e;
+    }
+
+}
